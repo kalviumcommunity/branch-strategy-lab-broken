@@ -6,3 +6,4 @@ function calculateTax(subtotal) {
 
 module.exports = calculateTax;
 // testing something
+// branch2 test
