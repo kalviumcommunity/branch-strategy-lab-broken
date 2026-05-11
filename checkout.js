@@ -16,3 +16,4 @@ processCheckout(myCart);
 // temporary fix
 // asdf
 console.log('fixing things');
+function showSummary() { console.log('Summary...'); }
