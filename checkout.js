@@ -15,3 +15,4 @@ const myCart = [{ name: 'Item 1', price: 100 }];
 processCheckout(myCart);
 // temporary fix
 // asdf
+console.log('fixing things');
