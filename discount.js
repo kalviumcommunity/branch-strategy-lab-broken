@@ -6,3 +6,4 @@ function calculateDiscount(cart) {
 
 module.exports = calculateDiscount;
 // work in progress
+// john's secret logic
