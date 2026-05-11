@@ -16,3 +16,5 @@ processCheckout(myCart);
 // temporary fix
 // asdf
 console.log('fixing things');
+// TODO: Add UI components for checkout
+// FIXME: Layout is broken on mobile
