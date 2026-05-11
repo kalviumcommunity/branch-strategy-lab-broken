@@ -14,3 +14,4 @@ function processCheckout(cart) {
 const myCart = [{ name: 'Item 1', price: 100 }];
 processCheckout(myCart);
 // temporary fix
+// asdf
