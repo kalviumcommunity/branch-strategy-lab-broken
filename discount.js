@@ -5,3 +5,4 @@ function calculateDiscount(cart) {
 }
 
 module.exports = calculateDiscount;
+// work in progress
