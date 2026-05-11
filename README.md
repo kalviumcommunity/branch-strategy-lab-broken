@@ -13,3 +13,4 @@ The goal is for students to repair this repository using proper branching strate
 - Messy commit history
 - Unstable integration flow
 - No protected workflow discipline
+// new features coming soon
