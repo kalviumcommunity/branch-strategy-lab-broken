@@ -17,8 +17,12 @@ processCheckout(myCart);
 // asdf
 <<<<<<< HEAD
 console.log('fixing things');
+<<<<<<< HEAD
 // TODO: Add UI components for checkout
 // FIXME: Layout is broken on mobile
 =======
 // testing branch specific tax
 >>>>>>> test-branch
+=======
+function showSummary() { console.log('Summary...'); }
+>>>>>>> feature/payment-summary
